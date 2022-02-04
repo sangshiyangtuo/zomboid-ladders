@@ -1,4 +1,4 @@
 ItemName_CN = {
-	ItemName_Ladders.SteelLader = "Steel Ladder",
-	ItemName_Ladders.WoodenLader = "Wodden Ladder",
+	ItemName_Ladders.SteelLader = "钢梯子",
+	ItemName_Ladders.WoodenLader = "木头梯子",
 }
